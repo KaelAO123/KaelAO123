@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JS 
 - 👯 I’m looking to collaborate on OSS
 - 📫 How to reach me: caereyes0@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Kae
 <!--
 **KaelAO123/KaelAO123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
